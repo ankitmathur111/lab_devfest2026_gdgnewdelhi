@@ -1,0 +1,31 @@
+EDUCATIONAL & ETHICAL USE DISCLAIMER
+
+This workshop and its accompanying code, demonstrations, examples, and materials
+are provided solely for educational, training, experimentation, and ethical
+security-learning purposes.
+
+This project is a simplified practice lab. It is NOT a production-ready banking
+application, security framework, compliance solution, or financial system.
+
+Use only synthetic/sample data. Do not connect this lab to real customer data,
+real credentials, production systems, real financial accounts, or live financial
+transactions without appropriate engineering, security, legal, compliance,
+risk, and architecture review.
+
+Security testing, prompt-injection testing, red-team exercises, authorization
+testing, and similar activities must be performed only against systems and
+environments for which you have explicit authorization.
+
+Developers and organizations are responsible for independently validating,
+strengthening, testing, and adapting these examples for their own use case,
+technology stack, architecture, security standards, regulatory obligations,
+privacy requirements, risk appetite, and organizational policies.
+
+The materials are provided for learning purposes without warranty. Ankit Mathur
+does not assume responsibility or liability for consequences arising from the
+use, misuse, modification, deployment, or adaptation of these educational
+materials, to the extent permitted by applicable law.
+
+By using this material, participants acknowledge that it is a practice and
+learning resource and not a substitute for professional security, engineering,
+architecture, legal, compliance, risk, or regulatory review.
